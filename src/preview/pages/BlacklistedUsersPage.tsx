@@ -10,7 +10,6 @@ import {
   TableBody,
   TableRow,
   TableHead,
-  TableCell,
 } from "@/components/ui/table"
 import { Empty, EmptyTitle, EmptyDescription } from "@/components/ui/empty"
 
